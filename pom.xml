@@ -12,12 +12,7 @@
  <java.version>11</java.version>
 </properties>
 
-<repositories>
- <repository>
-  <id>AsposeJavaAPI</id>
-  <url>https://repository.aspose.com/repo/</url>
- </repository>
-</repositories>
+
 
 <dependencies>
  <dependency>
